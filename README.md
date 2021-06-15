@@ -1,7 +1,7 @@
 ## Hackthebox_writeups
 
 
-This are Hackthebox writeups of OSCP-like retired machines for practicing the reporting.
+These are Hackthebox writeups of OSCP-like retired machines for practicing the reporting.
 
 # Machines
 ---------

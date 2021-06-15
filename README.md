@@ -9,3 +9,4 @@ This are going to be Hackthebox writeups of OSCP-like retired machines for pract
 Easy
 -----
 - Lame
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/LameWriteup.pdf

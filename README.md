@@ -11,7 +11,7 @@ Easy
 - Lame\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/LameWriteup.pdf\
 - Shocker\
-https://github.com/Filiplain/Hackthebox_writeups/blob/main/shocker.pdf\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/shocker.pdf
 
 Medium
 ------
@@ -24,5 +24,5 @@ Hard
 
 Insane
 ------
-- brainfuck\ 
+- brainfuck\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/brainfuck.pdf

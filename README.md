@@ -9,9 +9,9 @@ These are Hackthebox writeups of OSCP-like retired machines for practicing the r
 Easy
 -----
 - Lame\
-https://github.com/Filiplain/Hackthebox_writeups/blob/main/LameWriteup.pdf
--Shocker\
-https://github.com/Filiplain/Hackthebox_writeups/blob/main/shocker.pdf
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/LameWriteup.pdf\
+- Shocker\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/shocker.pdf\
 
 Medium
 ------

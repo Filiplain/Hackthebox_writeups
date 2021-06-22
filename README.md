@@ -14,6 +14,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/LameWriteup.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/shocker.pdf
 - Bashed\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Bashed.pdf
+- Nibbles\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Nibbles.pdf
 
 Medium
 ------

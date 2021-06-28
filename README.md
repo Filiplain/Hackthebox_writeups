@@ -21,7 +21,10 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Beep.pdf
 
 Medium
 ------
--
+- Cronos\
+
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Cronos.pdf
+
 -
 Hard
 ----

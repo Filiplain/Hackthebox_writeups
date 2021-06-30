@@ -18,6 +18,9 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Bashed.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Nibbles.pdf
 - Beep\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Beep.pdf
+-
+-Valentine\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Valentine.pdf
 
 Medium
 ------

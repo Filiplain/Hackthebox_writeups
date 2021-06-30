@@ -19,7 +19,7 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Nibbles.pdf
 - Beep\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Beep.pdf
 -
--Valentine\
+- Valentine\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Valentine.pdf
 
 Medium

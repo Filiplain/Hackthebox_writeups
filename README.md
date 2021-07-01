@@ -18,7 +18,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Bashed.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Nibbles.pdf
 - Beep\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Beep.pdf
--
+- Sense\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sense.pdf
 - Valentine\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Valentine.pdf
 

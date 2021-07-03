@@ -31,7 +31,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Cronos.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Nineveh.pdf
 - Solidstate\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Solidstate.pdf
--
+- Node\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Node.pdf
 
 Hard
 ----

@@ -33,7 +33,7 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Nineveh.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Solidstate.pdf
 - Node\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Node.pdf
-- Poison
+- Poison\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Poison.pdf
 
 Hard

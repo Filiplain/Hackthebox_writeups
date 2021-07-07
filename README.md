@@ -22,6 +22,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Beep.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sense.pdf
 - Valentine\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Valentine.pdf
+- Sunday
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sunday.pdf
 
 Medium
 ------

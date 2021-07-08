@@ -37,6 +37,9 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Solidstate.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Node.pdf
 - Poison\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Poison.pdf
+- Tartarsauce\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Tartarsauce.pdf
+-
 
 Hard
 ----

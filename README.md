@@ -24,7 +24,9 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sense.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Valentine.pdf
 - Sunday\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sunday.pdf
-
+- Irked\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Irked.pdf
+-
 Medium
 ------
 - Cronos\

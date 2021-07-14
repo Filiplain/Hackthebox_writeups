@@ -26,6 +26,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Valentine.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sunday.pdf
 - Irked\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Irked.pdf
+- Networked\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Networked.pdf
 -
 Medium
 ------

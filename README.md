@@ -28,6 +28,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Sunday.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Irked.pdf
 - Networked\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Networked.pdf
+- Legacy\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Legacy.pdf
 -
 Medium
 ------

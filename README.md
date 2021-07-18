@@ -30,6 +30,8 @@ https://github.com/Filiplain/Hackthebox_writeups/blob/main/Irked.pdf
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Networked.pdf
 - Legacy\
 https://github.com/Filiplain/Hackthebox_writeups/blob/main/Legacy.pdf
+- Blue\
+https://github.com/Filiplain/Hackthebox_writeups/blob/main/Blue.pdf
 -
 Medium
 ------
